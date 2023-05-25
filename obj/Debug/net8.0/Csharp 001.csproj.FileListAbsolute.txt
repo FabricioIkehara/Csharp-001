@@ -1,0 +1,15 @@
+C:\Users\Fabrício\Documents\Csharp 001\obj\Debug\net8.0\Csharp 001.csproj.AssemblyReference.cache
+C:\Users\Fabrício\Documents\Csharp 001\obj\Debug\net8.0\Csharp 001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabrício\Documents\Csharp 001\obj\Debug\net8.0\Csharp 001.AssemblyInfoInputs.cache
+C:\Users\Fabrício\Documents\Csharp 001\obj\Debug\net8.0\Csharp 001.AssemblyInfo.cs
+C:\Users\Fabrício\Documents\Csharp 001\obj\Debug\net8.0\Csharp 001.csproj.CoreCompileInputs.cache
+C:\Users\Fabrício\Documents\Csharp 001\bin\Debug\net8.0\Csharp 001.exe
+C:\Users\Fabrício\Documents\Csharp 001\bin\Debug\net8.0\Csharp 001.deps.json
+C:\Users\Fabrício\Documents\Csharp 001\bin\Debug\net8.0\Csharp 001.runtimeconfig.json
+C:\Users\Fabrício\Documents\Csharp 001\bin\Debug\net8.0\Csharp 001.dll
+C:\Users\Fabrício\Documents\Csharp 001\bin\Debug\net8.0\Csharp 001.pdb
+C:\Users\Fabrício\Documents\Csharp 001\obj\Debug\net8.0\Csharp 001.dll
+C:\Users\Fabrício\Documents\Csharp 001\obj\Debug\net8.0\refint\Csharp 001.dll
+C:\Users\Fabrício\Documents\Csharp 001\obj\Debug\net8.0\Csharp 001.pdb
+C:\Users\Fabrício\Documents\Csharp 001\obj\Debug\net8.0\Csharp 001.genruntimeconfig.cache
+C:\Users\Fabrício\Documents\Csharp 001\obj\Debug\net8.0\ref\Csharp 001.dll
